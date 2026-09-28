@@ -50,11 +50,10 @@ docs/       → Documentação do projeto
 ## Equipe
 
 - Vitor Emanuel
-- Integrante 2
-- Integrante 3
-- Integrante 4
-- Integrante 5
+- José Hrenzo
+- Arthur Guilherme
+- Tiago Negreiros
 
 ## Disciplina
 
-Projeto desenvolvido como atividade acadêmica de Engenharia de Software.
+Processos de Desenvolvimento de Software
