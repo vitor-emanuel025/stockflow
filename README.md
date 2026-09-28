@@ -53,6 +53,7 @@ docs/       → Documentação do projeto
 - José Hrenzo
 - Arthur Guilherme
 - Tiago Negreiros
+- Magno Antonini
 
 ## Disciplina
 
